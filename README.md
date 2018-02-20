@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+GREETINGS HUMANS,
+
+This is the part where I write about myself.
